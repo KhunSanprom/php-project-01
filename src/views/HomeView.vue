@@ -27,7 +27,7 @@ const projects = [
       <p class="text-gray-600">Front-end Developer · Vue.js / Tailwind CSS</p>
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+    <div class="grid gap-4 grid-cols-[repeat(auto-fit,minmax(240px,1fr))]">
       <ProjectCard
         v-for="(project, index) in projects"
         :key="index"
