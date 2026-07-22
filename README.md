@@ -1,44 +1,32 @@
-# .
+# My Portfolio Project
 
-This template should help get you started developing with Vue 3 in Vite.
+Portfolio เว็บไซต์ส่วนตัว สร้างด้วย Vue.js และ Tailwind CSS
 
-## Recommended IDE Setup
+🔗 **Live Demo:** https://username.github.io/php-project-01/
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## เทคโนโลยีที่ใช้
 
-## Recommended Browser Setup
+- Vue.js 3 (Composition API + `<script setup>`)
+- Vue Router (SPA navigation)
+- Tailwind CSS
+- Vite
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## Features
 
-## Customize configuration
+- หน้า Home แนะนำตัวและแสดงผลงาน
+- หน้า About แสดงทักษะ
+- หน้า Projects แสดงผลงานทั้งหมด
+- หน้า Contact พร้อมฟอร์มติดต่อ
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## วิธีรันโปรเจกต์
 
-## Project Setup
-
-```sh
+\`\`\`bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
+\`\`\`
 
-### Compile and Minify for Production
+## Build สำหรับ Production
 
-```sh
+\`\`\`bash
 npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+\`\`\`
