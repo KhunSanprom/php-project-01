@@ -2,7 +2,7 @@
 
 Portfolio เว็บไซต์ส่วนตัว สร้างด้วย Vue.js และ Tailwind CSS
 
-🔗 **Live Demo:** https://username.github.io/php-project-01/](https://khunsanprom.github.io/php-project-01/
+🔗 **Live Demo:** https://khunsanprom.github.io/php-project-01/
 
 ## เทคโนโลยีที่ใช้
 
