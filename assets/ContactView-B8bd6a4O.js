@@ -1,1 +1,0 @@
-import{i as e,n as t,r as n,t as r}from"./index-Df_yh76k.js";var i={},a={class:`p-8 text-center`};function o(r,i){return e(),n(`div`,a,[...i[0]||=[t(`h1`,{class:`text-2xl font-bold`},`Contact Page`,-1)]])}var s=r(i,[[`render`,o]]);export{s as default};

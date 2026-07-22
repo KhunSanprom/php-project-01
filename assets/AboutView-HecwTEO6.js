@@ -1,0 +1,1 @@
+import{i as e,o as t,s as n,t as r}from"./index-C9--PLke.js";var i={},a={class:`p-8 text-center`};function o(r,i){return n(),t(`div`,a,[...i[0]||=[e(`h1`,{class:`text-2xl font-bold`},`About Page`,-1)]])}var s=r(i,[[`render`,o]]);export{s as default};
